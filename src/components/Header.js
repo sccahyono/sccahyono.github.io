@@ -23,7 +23,7 @@ const social = [
   },
   {
     name: 'GitHub',
-    href: 'https://github.com/stefanuscc',
+    href: 'https://github.com/sccahyono',
     icon: (props) => (
       <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
         <title>GitHub</title>
